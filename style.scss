@@ -1,0 +1,14 @@
+.buttons{
+    display: flex;
+    gap: 10px;
+}
+
+.button{
+    display: inline-block;
+    background-color: rgb(24, 106, 199);
+
+    &:hover{
+        background-color: black;
+        color: white;
+    }
+}

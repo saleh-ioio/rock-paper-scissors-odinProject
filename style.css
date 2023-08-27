@@ -1,0 +1,13 @@
+.buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.button {
+  display: inline-block;
+  background-color: rgb(24, 106, 199);
+}
+.button:hover {
+  background-color: black;
+  color: white;
+}/*# sourceMappingURL=style.css.map */

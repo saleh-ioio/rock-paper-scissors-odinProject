@@ -14,6 +14,16 @@ function getComputerChoice() {
 
 }
 
+function hookEventToButtons(){
+
+   let rockElement   = document.querySelector('.rock');
+   let paperElement  = document.querySelector('paper');
+   let Scissors      = document.querySelector('paper');
+
+
+}
+
+
 function getUserChoice() {
     let userChoice =
         prompt('choose your attack : rock ! paper ! Scissors , you only need to enter the first letter of your choice');
